@@ -1,0 +1,26 @@
+body {
+    background-color: #E6BCCD; /* Fondo lila claro */
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#contenedor {
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #C8A2C8; /* Lila más oscuro para los botones */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#no {
+    position: absolute;
+}
+
+#mensaje {
+    margin-top: 20px;
+}
