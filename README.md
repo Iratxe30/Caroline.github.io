@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Enlace a tu página web](file:///C:/Users/Usuario/Documents/PROYECTO/san_valentin.html)
+[Enlace a tu página web](https://Iratxe30.github.io/Caroline)
 
 ## Cómo usar
 
@@ -33,7 +33,7 @@ Este proyecto fue creado con mucho amor por [Iratxe30].
 ## Licencia
 GNU General Public License v3.0
 
-Copyright (C) [año] [nombre del autor]
+Copyright (C) [2025] [Iratxe30]
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
